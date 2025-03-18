@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "name": "Complete Project Report",
+            "assignee": "Ken Suson",
+            "due_date": "2025-03-15",
+            "status": "Pending",
+            "recurring": false
+        },
+        {
+            "id": 2,
+            "name": "Weekly Team Meeting",
+            "assignee": "Ken Suson",
+            "due date": "2025-03-12",
+            "status": "Pending",
+            "recurring": true,
+            "recurrence_pattern": "Weekly",
+            "recurrence_end_date": "2025-12-31"
+        }
+    ]
+}
